@@ -2,7 +2,7 @@
 
 <h1 align="center"> with.acmvit.in </h1>
 
-<p align="center">
+<p align="center"> 
 A realtime url shortner
 </p>
 
@@ -17,38 +17,33 @@ A realtime url shortner
 
 ---
 
-with.acmvit.in was created to give the lengthy, messed up URLs a simple and a professional look<br>
-This project is written in javascript and is hosted as a serverless function on vercel<br>
-Firebase was used to store the URLs for each route to redirect the user to the target URL.
+A custom url shortner 
 
 ---
 
-<!-- ## Screenshots -->
+## Screenshots
 
 <!-- Add one screenshot of your project (max height: 1000px, max size: 1mb) 'if applicable' under assets folder in root of your project ![sceenshot](assets/<name of image>) -->
 <!-- if your project has multiple pictures , merge them into one image using a tool similar to figma -->
 
-<!-- --- -->
+---
 
 ## Usage
 <!-- How To, Features, Installation etc. as subheadings in this section. example-->
 
-Lets get started!<br>
-Fork this repository.
+Lets get started!
 ```console
-git clone https://github.com/<your_username>/with.acmvit.in.git
-cd with.acmvit.in
-vercel link       # link the repository to your vercel account
-vercel env add    # add all the required environment variables
-vercel            # start the build and deploy to vercel
+git remote add
+git fetch
+git merge
 ```
 
 ---
 
 ## Authors
 
-**Contributors:** [Swarup Kharul](https://github.com/SwarupKharul), [Srinivas V](https://github.com/cr-trojan23)
-
+**Contributors:** [Swarup Kharul](https://github.com/SwarupKharul), [Srinivas V](https://github.com/cr-trojan23) 
+**Mentors:** [Yash Kumar Verma](https://github.com/YashKumarVerma), [Shreyash K](https://github.com/HelixW)
 
 ## License
 Distributed under the MIT license. See LICENSE for more information.
